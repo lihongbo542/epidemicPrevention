@@ -1,0 +1,121 @@
+.detailsInfo-tabs{
+  width: 100%;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.coverage{
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  border-top: 2px solid #eee;
+  padding: 20px 20px 20px 50px;
+}
+.coverage:nth-child(1){
+  border-top: none;
+}
+
+.coverage-head{
+display: -webkit-flex;
+  display:flex;
+  flex-direction: row;
+}
+.rectCop{
+  width: 56px;
+  height: 26px;
+  text-align: center;
+  background: rgba(230, 0, 18, 0.1);
+  font-size: 16px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #DA4308;
+  line-height: 26px;
+  border-radius: 13px;
+}
+.title{
+  margin-left: 23px;
+  width: 600px;
+  height: 15px;
+  font-size: 22px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #4D4D4D;
+  line-height: 20px;
+}
+.coverage-body{
+  display: flex;
+  display: -webkit-flex;
+  width: 100%;
+  height: 60%;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  flex-direction: row;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #4A4960;
+  line-height: 20px;
+}
+.coverage-footer{
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.annex{
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+}
+.annex img{
+  width: 25px;
+  height: 25px;
+}
+.annex-text{
+  margin-left: 21px;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999999;
+  line-height: 30px;
+  text-align: center;
+}
+.footer{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+}
+.build{
+  width: 105px;
+  height: 15px;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999999;
+  line-height: 20px;
+}
+.date{
+  margin-top: 10px;
+  width: 130px;
+  height: 11px;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999999;
+  line-height: 20px;
+}
+.pagination{
+  padding: 20px 0;
+}
+.search-name{
+  margin-left: 10px;
+  height: 40px;
+  font-size: 16px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #AFB2B3;
+  line-height: 40px;
+}

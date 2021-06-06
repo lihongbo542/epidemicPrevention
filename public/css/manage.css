@@ -1,0 +1,154 @@
+.manage{
+  width: 96%;
+  height: 100%;
+  margin: 0 auto;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  width: 100%;
+  height: 100%;
+  background: #EEF2F4;
+}
+.management{
+  width: 100%;
+  height: 99%;
+  margin-top: 10px;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+}
+.thinkSearch{
+  width: 25%;
+  height: 880px;
+  background: #FFFFFF;
+  box-shadow: 0px 10px 30px 0px rgba(211, 215, 221, 0.4);
+  border-radius: 4px;
+  padding: 26px 26px 102px 28px;
+  box-sizing: border-box;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.thinkSearch-title{
+  height: 20px;
+  font-size: 20px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #221815;
+  line-height: 20px;
+}
+.thinkSearch-input{
+  margin-top: 32px;
+  width: 347px;
+  height: 40px;
+  background: #FFFFFF;
+  border: 1px solid #D8E2F0;
+  box-shadow: 0px 10px 30px 0px rgba(211, 215, 221, 0.4);
+  border-radius: 5px;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+}
+.thinkSearch-filter{
+  margin-top: 26px;
+  height: 18px;
+  font-size: 18px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #282D38;
+  line-height: 27px;
+}
+.thinkSearch-select{
+margin-top: 36px;
+}
+ .el-checkbox-group{
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.el-checkbox{
+  margin: 10px;
+}
+.thinkSearch-button{
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  margin-top: 388px;
+  align-items: center;
+  justify-content: space-around;
+}
+.button-clear{
+  text-align: center;
+  width: 110px;
+  height: 42px;
+  background: #ccc;
+  border-radius: 21px;
+  font-size: 20px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #666666;
+  line-height: 42px;
+}
+.button-enter{
+  text-align: center;
+  width: 110px;
+  height: 42px;
+  background: #3478FF;
+  border-radius: 21px;
+  font-size: 20px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #FFFFFF;
+  line-height: 42px;
+}
+.management-table{
+  margin-left: 12px;
+  width: 75%;
+  height: 880px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 50px 25px 28px;
+}
+.add-contain{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.add-think{
+  text-align: center;
+  line-height: 42px;
+  font-size: 20px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #FFFFFF;
+  width: 110px;
+  height: 42px;
+  background: #3478FF;
+  border-radius: 21px;
+}
+.management-table-item{
+  width: 100%;
+  min-height: 800px;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.opera{
+  width: 200px;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.review-tip{
+  text-align: center;
+  color: #cccccc;
+  font-size: 8px;
+}

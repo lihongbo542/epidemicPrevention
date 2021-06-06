@@ -1,0 +1,252 @@
+.container {
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+}
+.cop{
+  margin: 0 0 12px 23px;
+  box-sizing: border-box;
+  width: 157px;
+  height: 47px;
+  background: #FFFFFF;
+  border-radius: 23px;
+  font-size: 22px;
+ /* font-family: Source Han Sans CN;*/
+  font-weight: bold;
+  color: #5A7CF3;
+  line-height: 47px;
+  text-align: center;
+
+}
+.Header{
+  width: 100%;
+  height: 180px;
+  display: -webkit-flex;
+  display: flex;
+  align-items: flex-end;
+}
+.searchAndCop{
+  width: 1113px;
+  height: 54px;
+  margin: 0 auto;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  align-items: center;
+}
+.search{
+  width: 700px;
+  padding-left: 200px;
+  height: 100%;
+}
+.search .el-select{
+  width: 200px!important;
+}
+.search button.el-button{
+  width: 100px!important;
+  z-index: 999!important;
+  background-color: #3478FF!important;
+  border-radius: 0 27px 27px 0!important;
+}
+.search .el-input-group__append{
+  border: none;
+}
+.thinkBody{
+  width: 1692px;
+  margin: 55px auto;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+}
+.newPolicy{
+  width: 468px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  margin-right: 34px;
+  overflow: hidden;
+  max-height: 900px;
+}
+.policyItem{
+  width: 1190px;
+  display: flex;
+  flex-direction: column;
+}
+.forth-contain{
+  height: 53%;
+  margin-bottom: 20px;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.policyItem-forth{
+  width: 467px;
+  margin-right: 20px;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+
+.newPolicy-head{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  height: 78px;
+  width: 100%;
+  align-items: center;
+  padding:  0 37px 0 31px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
+.rect{
+  width: 4px;
+  height: 13px;
+  background: #2D69DE;
+  position: relative;
+  top: 3px;
+}
+.rect-green{
+  width: 4px;
+  height: 13px;
+  background: #99045f;
+  position: relative;
+  top: 3px;
+}
+.rect-cured{
+  width: 4px;
+  height: 13px;
+  background: green;
+  position: relative;
+  top: 3px;
+}
+.rect-worning{
+  width: 4px;
+  height: 13px;
+  background: red;
+  position: relative;
+  top: 3px;
+}
+.orange{
+  background-color: #FE9022;
+  width: 4px;
+  height: 13px;
+  position: relative;
+  top: 3px;
+}
+.rectAndTitle{
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.head-title{
+  width: 150px;
+  margin-left: 22px;
+  height: 20px;
+  font-size: 20px;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #333333;
+  line-height: 27px;
+}
+.arrowAndText{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+}
+.arrowAndText-text{
+  width: 35px;
+  height: 14px;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  line-height: 14px;
+}
+.arrow{
+  font-size: 20px;
+}
+.tableContainer{
+  width: 100%;
+  flex-direction: column;
+}
+.tableList{
+  width: 100%;
+  height: 112px;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  border-top: solid 2px rgba(229, 229, 229, 0.3);
+  flex-direction: column;
+}
+
+.tableList-title{
+  width: 100%;
+  height: 60%;
+}
+.title-base{
+  width: 56px;
+  display: inline-block;
+  height: 26px;
+  margin-right: 5px;
+
+  border-radius: 13px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+
+  line-height: 26px;
+}
+.country{
+  background: rgba(230, 0, 18, 0.1);
+  color: #DA4308;
+}
+.provincial{
+  background: rgba(254, 144, 34, 0.1);
+  color: #FD6006;
+}
+.cityLevel{
+  background: rgba(52, 120, 255, 0.1);
+  color: #396EE4;
+}
+.tableList-date{
+  width: 100%;
+  margin-top: 15px;
+  height: 40%;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #B3B3B3;
+  line-height: 20px;
+}
+.title-text{
+  width: 406px;
+  height: 33px;
+  font-size: 14px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #4A4960;
+  line-height: 20px;
+}
+.policyItem-five{
+  display: flex;
+  margin-top: 50px;
+  flex-direction: row;
+}
+.five-item{
+  padding-bottom: 20px;
+  background-color: #fff;
+  margin-right: 34px;
+  overflow: hidden;
+  min-width: 43%;
+}
+.forth-specia-item{
+  width: 34.5%;
+  padding-bottom: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}

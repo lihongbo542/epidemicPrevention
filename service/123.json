@@ -1,0 +1,4627 @@
+[
+  {
+    "confirmed": "1",
+    "died": "0",
+    "crued": "1",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "西藏",
+    "subList": [
+      {
+        "city": "拉萨",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "100"
+      }
+    ]
+  },
+  {
+    "confirmed": "49",
+    "died": "0",
+    "crued": "49",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "cityCode": "2911",
+    "icuDisable": "1",
+    "area": "澳门",
+    "subList": []
+  },
+  {
+    "confirmed": "18",
+    "died": "0",
+    "crued": "18",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "青海",
+    "subList": [
+      {
+        "city": "西宁",
+        "confirmed": "15",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "66"
+      },
+      {
+        "city": "海北州",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "67"
+      }
+    ]
+  },
+  {
+    "confirmed": "1100",
+    "died": "12",
+    "crued": "1045",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "7",
+    "diedRelative": "0",
+    "curedRelative": "1",
+    "asymptomaticRelative": "",
+    "curConfirm": "43",
+    "curConfirmRelative": "6",
+    "cityCode": "2913",
+    "icuDisable": "1",
+    "area": "台湾",
+    "subList": []
+  },
+  {
+    "confirmed": "11730",
+    "died": "209",
+    "crued": "11340",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "3",
+    "diedRelative": "0",
+    "curedRelative": "15",
+    "asymptomaticRelative": "",
+    "curConfirm": "181",
+    "curConfirmRelative": "-12",
+    "cityCode": "2912",
+    "icuDisable": "1",
+    "area": "香港",
+    "subList": []
+  },
+  {
+    "confirmed": "147",
+    "died": "2",
+    "crued": "145",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "贵州",
+    "subList": [
+      {
+        "city": "六盘水",
+        "confirmed": "10",
+        "died": "1",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "147"
+      },
+      {
+        "city": "毕节地区",
+        "confirmed": "23",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "206"
+      },
+      {
+        "city": "黔西南州",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "343"
+      },
+      {
+        "city": "黔南州",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "306"
+      },
+      {
+        "city": "黔东南州",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "342"
+      },
+      {
+        "city": "贵阳",
+        "confirmed": "36",
+        "died": "1",
+        "crued": "35",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "146"
+      },
+      {
+        "city": "铜仁地区",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "205"
+      },
+      {
+        "city": "遵义",
+        "confirmed": "32",
+        "died": "0",
+        "crued": "32",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "262"
+      },
+      {
+        "city": "安顺",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "263"
+      },
+      {
+        "city": "贵安新区",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "573",
+    "died": "3",
+    "crued": "570",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "1",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "吉林",
+    "subList": [
+      {
+        "city": "延边",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "54"
+      },
+      {
+        "city": "四平",
+        "confirmed": "17",
+        "died": "1",
+        "crued": "16",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "56"
+      },
+      {
+        "city": "通化",
+        "confirmed": "313",
+        "died": "1",
+        "crued": "312",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "165"
+      },
+      {
+        "city": "吉林市",
+        "confirmed": "48",
+        "died": "1",
+        "crued": "47",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "55"
+      },
+      {
+        "city": "公主岭",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "松原",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "52"
+      },
+      {
+        "city": "长春",
+        "confirmed": "150",
+        "died": "0",
+        "crued": "150",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "53"
+      },
+      {
+        "city": "辽源",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "183"
+      },
+      {
+        "city": "白城",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "51"
+      },
+      {
+        "city": "梅河口",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "白山",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "57"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "19",
+        "died": "0",
+        "crued": "19",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "980",
+    "died": "3",
+    "crued": "977",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "新疆",
+    "subList": [
+      {
+        "city": "乌鲁木齐",
+        "confirmed": "845",
+        "died": "0",
+        "crued": "845",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "92"
+      },
+      {
+        "city": "第七师",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "第八师",
+        "confirmed": "4",
+        "died": "1",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "吐鲁番地区",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "89"
+      },
+      {
+        "city": "伊犁州",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "90"
+      },
+      {
+        "city": "阿克苏地区",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "85"
+      },
+      {
+        "city": "第九师",
+        "confirmed": "4",
+        "died": "1",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "昌吉州",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "93"
+      },
+      {
+        "city": "第六师",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "巴音郭楞蒙古自治州",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "86"
+      },
+      {
+        "city": "第十二师",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "第四师",
+        "confirmed": "10",
+        "died": "1",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "喀什地区",
+        "confirmed": "80",
+        "died": "0",
+        "crued": "80",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "83"
+      },
+      {
+        "city": "待确认",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "75",
+    "died": "0",
+    "crued": "75",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "宁夏",
+    "subList": [
+      {
+        "city": "中卫",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "181"
+      },
+      {
+        "city": "吴忠",
+        "confirmed": "28",
+        "died": "0",
+        "crued": "28",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "322"
+      },
+      {
+        "city": "银川",
+        "confirmed": "34",
+        "died": "0",
+        "crued": "34",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "360"
+      },
+      {
+        "city": "宁东管委会",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "固原",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "246"
+      },
+      {
+        "city": "石嘴山",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "335"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "379",
+    "died": "1",
+    "crued": "376",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "2",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "内蒙古",
+    "subList": [
+      {
+        "city": "锡林郭勒盟",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "63"
+      },
+      {
+        "city": "包头",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "229"
+      },
+      {
+        "city": "呼伦贝尔",
+        "confirmed": "37",
+        "died": "0",
+        "crued": "37",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "61"
+      },
+      {
+        "city": "呼和浩特",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "321"
+      },
+      {
+        "city": "兴安盟",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "62"
+      },
+      {
+        "city": "巴彦淖尔",
+        "confirmed": "8",
+        "died": "1",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "169"
+      },
+      {
+        "city": "赤峰",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "297"
+      },
+      {
+        "city": "通辽",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "64"
+      },
+      {
+        "city": "鄂尔多斯",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "283"
+      },
+      {
+        "city": "乌兰察布",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "168"
+      },
+      {
+        "city": "乌海",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "123"
+      },
+      {
+        "city": "阿拉善盟",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "230"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "274",
+        "died": "0",
+        "crued": "272",
+        "confirmedRelative": "0",
+        "curConfirm": "2"
+      }
+    ]
+  },
+  {
+    "confirmed": "193",
+    "died": "2",
+    "crued": "190",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "1",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "甘肃",
+    "subList": [
+      {
+        "city": "平凉",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "359"
+      },
+      {
+        "city": "金昌",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "34"
+      },
+      {
+        "city": "天水",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "196"
+      },
+      {
+        "city": "张掖",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "117"
+      },
+      {
+        "city": "陇南",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "256"
+      },
+      {
+        "city": "白银",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "35"
+      },
+      {
+        "city": "临夏州",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "182"
+      },
+      {
+        "city": "兰州",
+        "confirmed": "36",
+        "died": "2",
+        "crued": "34",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "36"
+      },
+      {
+        "city": "定西",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "136"
+      },
+      {
+        "city": "甘南州",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "247"
+      },
+      {
+        "city": "庆阳",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "135"
+      },
+      {
+        "city": "武威",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "118"
+      },
+      {
+        "city": "酒泉",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "37"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "101",
+        "died": "0",
+        "crued": "100",
+        "confirmedRelative": "0",
+        "curConfirm": "1"
+      },
+      {
+        "city": "外来人员",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "384",
+    "died": "3",
+    "crued": "372",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "1",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "8",
+    "curConfirm": "9",
+    "curConfirmRelative": "1",
+    "cityCode": "332",
+    "icuDisable": "1",
+    "area": "天津",
+    "subList": [
+      {
+        "city": "红桥区",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "和平区",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "滨海新区",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "西青区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "南开区",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "河东区",
+        "confirmed": "15",
+        "died": "1",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "河北区",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "河西区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "外地来津人员",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "宁河区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "宝坻区",
+        "confirmed": "60",
+        "died": "2",
+        "crued": "58",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "东丽区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "津南区",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "北辰区",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "武清区",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "静海区",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "蓟州区",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "237",
+        "died": "0",
+        "crued": "228",
+        "confirmedRelative": "1",
+        "curConfirm": "9"
+      }
+    ]
+  },
+  {
+    "confirmed": "249",
+    "died": "0",
+    "crued": "242",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "10",
+    "curConfirm": "7",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "山西",
+    "subList": [
+      {
+        "city": "朔州",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "237"
+      },
+      {
+        "city": "晋中",
+        "confirmed": "41",
+        "died": "0",
+        "crued": "41",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "238"
+      },
+      {
+        "city": "运城",
+        "confirmed": "19",
+        "died": "0",
+        "crued": "19",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "328"
+      },
+      {
+        "city": "阳泉",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "357"
+      },
+      {
+        "city": "吕梁",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "327"
+      },
+      {
+        "city": "大同",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "355"
+      },
+      {
+        "city": "长治",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "356"
+      },
+      {
+        "city": "临汾",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "368"
+      },
+      {
+        "city": "太原",
+        "confirmed": "21",
+        "died": "0",
+        "crued": "21",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "176"
+      },
+      {
+        "city": "晋城",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "290"
+      },
+      {
+        "city": "忻州",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "367"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "111",
+        "died": "0",
+        "crued": "104",
+        "confirmedRelative": "0",
+        "curConfirm": "7"
+      }
+    ]
+  },
+  {
+    "confirmed": "408",
+    "died": "2",
+    "crued": "406",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "2",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "辽宁",
+    "subList": [
+      {
+        "city": "朝阳",
+        "confirmed": "6",
+        "died": "1",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "280"
+      },
+      {
+        "city": "铁岭",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "60"
+      },
+      {
+        "city": "葫芦岛",
+        "confirmed": "12",
+        "died": "1",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "319"
+      },
+      {
+        "city": "锦州",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "166"
+      },
+      {
+        "city": "大连",
+        "confirmed": "161",
+        "died": "0",
+        "crued": "161",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "167"
+      },
+      {
+        "city": "营口",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "281"
+      },
+      {
+        "city": "丹东",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "282"
+      },
+      {
+        "city": "沈阳",
+        "confirmed": "70",
+        "died": "0",
+        "crued": "70",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "58"
+      },
+      {
+        "city": "辽阳",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "351"
+      },
+      {
+        "city": "盘锦",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "228"
+      },
+      {
+        "city": "本溪",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "227"
+      },
+      {
+        "city": "鞍山",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "320"
+      },
+      {
+        "city": "阜新",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "59"
+      },
+      {
+        "city": "抚顺",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "184"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "97",
+        "died": "0",
+        "crued": "97",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "1610",
+    "died": "13",
+    "crued": "1597",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "1",
+    "asymptomatic": "1",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "黑龙江",
+    "subList": [
+      {
+        "city": "鹤岗",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "43"
+      },
+      {
+        "city": "七台河",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "47"
+      },
+      {
+        "city": "大兴安岭地区",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "38"
+      },
+      {
+        "city": "佳木斯",
+        "confirmed": "15",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "42"
+      },
+      {
+        "city": "牡丹江",
+        "confirmed": "36",
+        "died": "0",
+        "crued": "36",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "49"
+      },
+      {
+        "city": "鸡西",
+        "confirmed": "46",
+        "died": "0",
+        "crued": "46",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "46"
+      },
+      {
+        "city": "绥化",
+        "confirmed": "536",
+        "died": "4",
+        "crued": "532",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "44"
+      },
+      {
+        "city": "齐齐哈尔",
+        "confirmed": "44",
+        "died": "1",
+        "crued": "43",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "41"
+      },
+      {
+        "city": "双鸭山",
+        "confirmed": "52",
+        "died": "3",
+        "crued": "49",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "45"
+      },
+      {
+        "city": "哈尔滨",
+        "confirmed": "410",
+        "died": "4",
+        "crued": "406",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "48"
+      },
+      {
+        "city": "大庆",
+        "confirmed": "29",
+        "died": "1",
+        "crued": "28",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "50"
+      },
+      {
+        "city": "黑河",
+        "confirmed": "24",
+        "died": "0",
+        "crued": "24",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "39"
+      },
+      {
+        "city": "伊春",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "40"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "390",
+        "died": "0",
+        "crued": "390",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "待确认",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "187",
+    "died": "6",
+    "crued": "165",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "16",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "海南",
+    "subList": [
+      {
+        "city": "陵水黎族自治县",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1643"
+      },
+      {
+        "city": "琼中黎族苗族自治县",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2031"
+      },
+      {
+        "city": "琼海",
+        "confirmed": "6",
+        "died": "1",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2358"
+      },
+      {
+        "city": "儋州",
+        "confirmed": "15",
+        "died": "1",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1215"
+      },
+      {
+        "city": "万宁",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1216"
+      },
+      {
+        "city": "东方",
+        "confirmed": "3",
+        "died": "1",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2634"
+      },
+      {
+        "city": "临高",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2033"
+      },
+      {
+        "city": "海口",
+        "confirmed": "39",
+        "died": "0",
+        "crued": "39",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "125"
+      },
+      {
+        "city": "澄迈",
+        "confirmed": "9",
+        "died": "1",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2757"
+      },
+      {
+        "city": "三亚",
+        "confirmed": "55",
+        "died": "1",
+        "crued": "54",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "121"
+      },
+      {
+        "city": "昌江黎族自治县",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1642"
+      },
+      {
+        "city": "定安",
+        "confirmed": "3",
+        "died": "1",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1214"
+      },
+      {
+        "city": "乐东黎族自治县",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2032"
+      },
+      {
+        "city": "文昌",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2758"
+      },
+      {
+        "city": "保亭黎族苗族自治县",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1217"
+      },
+      {
+        "city": "屯昌",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1641"
+      },
+      {
+        "city": "三沙",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "16"
+      }
+    ]
+  },
+  {
+    "confirmed": "1317",
+    "died": "7",
+    "crued": "1310",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "河北",
+    "subList": [
+      {
+        "city": "张家口",
+        "confirmed": "43",
+        "died": "0",
+        "crued": "43",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "264"
+      },
+      {
+        "city": "保定",
+        "confirmed": "34",
+        "died": "0",
+        "crued": "34",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "307"
+      },
+      {
+        "city": "邢台",
+        "confirmed": "94",
+        "died": "1",
+        "crued": "93",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "266"
+      },
+      {
+        "city": "沧州",
+        "confirmed": "49",
+        "died": "3",
+        "crued": "46",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "149"
+      },
+      {
+        "city": "石家庄",
+        "confirmed": "898",
+        "died": "1",
+        "crued": "897",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "150"
+      },
+      {
+        "city": "承德",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "207"
+      },
+      {
+        "city": "廊坊",
+        "confirmed": "33",
+        "died": "0",
+        "crued": "33",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "191"
+      },
+      {
+        "city": "邯郸",
+        "confirmed": "32",
+        "died": "0",
+        "crued": "32",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "151"
+      },
+      {
+        "city": "衡水",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "208"
+      },
+      {
+        "city": "唐山",
+        "confirmed": "58",
+        "died": "1",
+        "crued": "57",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "265"
+      },
+      {
+        "city": "秦皇岛",
+        "confirmed": "10",
+        "died": "1",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "148"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "36",
+        "died": "0",
+        "crued": "36",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "定州",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "雄安新区",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "588",
+    "died": "3",
+    "crued": "569",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "3",
+    "asymptomatic": "25",
+    "curConfirm": "16",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "陕西",
+    "subList": [
+      {
+        "city": "榆林",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "231"
+      },
+      {
+        "city": "西安",
+        "confirmed": "121",
+        "died": "3",
+        "crued": "118",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "233"
+      },
+      {
+        "city": "咸阳",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "323"
+      },
+      {
+        "city": "商洛",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "285"
+      },
+      {
+        "city": "安康",
+        "confirmed": "26",
+        "died": "0",
+        "crued": "26",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "324"
+      },
+      {
+        "city": "延安",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "284"
+      },
+      {
+        "city": "韩城",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "汉中",
+        "confirmed": "26",
+        "died": "0",
+        "crued": "26",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "352"
+      },
+      {
+        "city": "宝鸡",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "171"
+      },
+      {
+        "city": "渭南",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "170"
+      },
+      {
+        "city": "铜川",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "232"
+      },
+      {
+        "city": "杨凌示范区",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "340",
+        "died": "0",
+        "crued": "324",
+        "confirmedRelative": "0",
+        "curConfirm": "16"
+      }
+    ]
+  },
+  {
+    "confirmed": "338",
+    "died": "2",
+    "crued": "280",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "2",
+    "asymptomaticRelative": "1",
+    "asymptomatic": "13",
+    "curConfirm": "56",
+    "curConfirmRelative": "-2",
+    "icuDisable": "1",
+    "area": "云南",
+    "subList": [
+      {
+        "city": "丽江",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "114"
+      },
+      {
+        "city": "红河州",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "107"
+      },
+      {
+        "city": "大理州",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "111"
+      },
+      {
+        "city": "保山",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "112"
+      },
+      {
+        "city": "昭通",
+        "confirmed": "25",
+        "died": "0",
+        "crued": "25",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "336"
+      },
+      {
+        "city": "德宏州",
+        "confirmed": "98",
+        "died": "0",
+        "crued": "52",
+        "confirmedRelative": "0",
+        "curConfirm": "46",
+        "cityCode": "116"
+      },
+      {
+        "city": "曲靖",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "249"
+      },
+      {
+        "city": "西双版纳傣族自治州",
+        "confirmed": "15",
+        "died": "1",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "109"
+      },
+      {
+        "city": "玉溪",
+        "confirmed": "14",
+        "died": "1",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "106"
+      },
+      {
+        "city": "普洱",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "108"
+      },
+      {
+        "city": "昆明",
+        "confirmed": "53",
+        "died": "0",
+        "crued": "53",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "104"
+      },
+      {
+        "city": "临沧",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "110"
+      },
+      {
+        "city": "楚雄州",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "105"
+      },
+      {
+        "city": "文山",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "177"
+      },
+      {
+        "city": "怒江州",
+        "confirmed": "0",
+        "died": "0",
+        "crued": "0",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "113"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "71",
+        "died": "0",
+        "crued": "61",
+        "confirmedRelative": "0",
+        "curConfirm": "10"
+      }
+    ]
+  },
+  {
+    "confirmed": "270",
+    "died": "2",
+    "crued": "265",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "3",
+    "curConfirm": "3",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "广西",
+    "subList": [
+      {
+        "city": "桂林",
+        "confirmed": "32",
+        "died": "0",
+        "crued": "32",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "142"
+      },
+      {
+        "city": "河池",
+        "confirmed": "28",
+        "died": "1",
+        "crued": "27",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "143"
+      },
+      {
+        "city": "南宁",
+        "confirmed": "56",
+        "died": "0",
+        "crued": "56",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "261"
+      },
+      {
+        "city": "防城港",
+        "confirmed": "19",
+        "died": "0",
+        "crued": "19",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "204"
+      },
+      {
+        "city": "贺州",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "260"
+      },
+      {
+        "city": "柳州",
+        "confirmed": "24",
+        "died": "0",
+        "crued": "24",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "305"
+      },
+      {
+        "city": "玉林",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "361"
+      },
+      {
+        "city": "北海",
+        "confirmed": "44",
+        "died": "1",
+        "crued": "43",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "295"
+      },
+      {
+        "city": "钦州",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "145"
+      },
+      {
+        "city": "梧州",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "304"
+      },
+      {
+        "city": "百色",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "203"
+      },
+      {
+        "city": "贵港",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "341"
+      },
+      {
+        "city": "来宾",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "202"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "3"
+      }
+    ]
+  },
+  {
+    "confirmed": "589",
+    "died": "1",
+    "crued": "561",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "3",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "4",
+    "asymptomatic": "28",
+    "curConfirm": "27",
+    "curConfirmRelative": "3",
+    "icuDisable": "1",
+    "area": "福建",
+    "subList": [
+      {
+        "city": "厦门",
+        "confirmed": "35",
+        "died": "0",
+        "crued": "35",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "194"
+      },
+      {
+        "city": "南平",
+        "confirmed": "20",
+        "died": "0",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "133"
+      },
+      {
+        "city": "莆田",
+        "confirmed": "56",
+        "died": "0",
+        "crued": "56",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "195"
+      },
+      {
+        "city": "泉州",
+        "confirmed": "47",
+        "died": "0",
+        "crued": "47",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "134"
+      },
+      {
+        "city": "漳州",
+        "confirmed": "20",
+        "died": "0",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "255"
+      },
+      {
+        "city": "三明",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "254"
+      },
+      {
+        "city": "宁德",
+        "confirmed": "26",
+        "died": "0",
+        "crued": "26",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "192"
+      },
+      {
+        "city": "龙岩",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "193"
+      },
+      {
+        "city": "福州",
+        "confirmed": "72",
+        "died": "1",
+        "crued": "71",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "300"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "293",
+        "died": "0",
+        "crued": "266",
+        "confirmedRelative": "3",
+        "curConfirm": "27"
+      }
+    ]
+  },
+  {
+    "confirmed": "1967",
+    "died": "7",
+    "crued": "1897",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "9",
+    "diedRelative": "0",
+    "curedRelative": "2",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "63",
+    "curConfirmRelative": "7",
+    "cityCode": "289",
+    "icuDisable": "1",
+    "area": "上海",
+    "subList": [
+      {
+        "city": "嘉定区",
+        "confirmed": "9",
+        "died": "2",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "外地来沪人员",
+        "confirmed": "113",
+        "died": "1",
+        "crued": "112",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "松江区",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "黄浦区",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "长宁区",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "青浦区",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "闵行区",
+        "confirmed": "19",
+        "died": "0",
+        "crued": "19",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "静安区",
+        "confirmed": "16",
+        "died": "1",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "虹口区",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "宝山区",
+        "confirmed": "26",
+        "died": "1",
+        "crued": "25",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "浦东新区",
+        "confirmed": "69",
+        "died": "1",
+        "crued": "68",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "杨浦区",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "徐汇区",
+        "confirmed": "18",
+        "died": "1",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "奉贤区",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "金山区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "普陀区",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "崇明区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "1596",
+        "died": "0",
+        "crued": "1533",
+        "confirmedRelative": "9",
+        "curConfirm": "63"
+      },
+      {
+        "city": "境外来沪人员",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "1057",
+    "died": "9",
+    "crued": "1038",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "confirmInter": "1",
+    "asymptomatic": "28",
+    "curConfirm": "10",
+    "curConfirmRelative": "0",
+    "cityCode": "131",
+    "icuDisable": "1",
+    "area": "北京",
+    "subList": [
+      {
+        "city": "东城区",
+        "confirmed": "19",
+        "died": "",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "海淀区",
+        "confirmed": "82",
+        "died": "",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "大兴区",
+        "confirmed": "134",
+        "died": "",
+        "crued": "111",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "朝阳区",
+        "confirmed": "80",
+        "died": "",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "丰台区",
+        "confirmed": "273",
+        "died": "",
+        "crued": "233",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "门头沟区",
+        "confirmed": "5",
+        "died": "",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "通州区",
+        "confirmed": "20",
+        "died": "",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "顺义区",
+        "confirmed": "45",
+        "died": "",
+        "crued": "45",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "石景山区",
+        "confirmed": "15",
+        "died": "",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "西城区",
+        "confirmed": "59",
+        "died": "",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "怀柔区",
+        "confirmed": "8",
+        "died": "",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "昌平区",
+        "confirmed": "33",
+        "died": "",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "外地来京人员",
+        "confirmed": "25",
+        "died": "",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "房山区",
+        "confirmed": "20",
+        "died": "",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "延庆区",
+        "confirmed": "1",
+        "died": "",
+        "crued": "",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "密云区",
+        "confirmed": "7",
+        "died": "",
+        "crued": "",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "待确认",
+        "confirmed": "2",
+        "died": "9",
+        "crued": "350",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "229",
+        "died": "",
+        "crued": "219",
+        "confirmedRelative": "0",
+        "curConfirm": "10"
+      }
+    ]
+  },
+  {
+    "confirmed": "717",
+    "died": "0",
+    "crued": "708",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "27",
+    "curConfirm": "9",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "江苏",
+    "subList": [
+      {
+        "city": "徐州",
+        "confirmed": "79",
+        "died": "0",
+        "crued": "79",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "316"
+      },
+      {
+        "city": "扬州",
+        "confirmed": "23",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "346"
+      },
+      {
+        "city": "宿迁",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "277"
+      },
+      {
+        "city": "镇江",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "160"
+      },
+      {
+        "city": "连云港",
+        "confirmed": "48",
+        "died": "0",
+        "crued": "48",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "347"
+      },
+      {
+        "city": "无锡",
+        "confirmed": "55",
+        "died": "0",
+        "crued": "55",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "317"
+      },
+      {
+        "city": "泰州",
+        "confirmed": "37",
+        "died": "0",
+        "crued": "37",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "276"
+      },
+      {
+        "city": "盐城",
+        "confirmed": "27",
+        "died": "0",
+        "crued": "27",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "223"
+      },
+      {
+        "city": "淮安",
+        "confirmed": "66",
+        "died": "0",
+        "crued": "66",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "162"
+      },
+      {
+        "city": "南通",
+        "confirmed": "40",
+        "died": "0",
+        "crued": "40",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "161"
+      },
+      {
+        "city": "南京",
+        "confirmed": "93",
+        "died": "0",
+        "crued": "93",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "315"
+      },
+      {
+        "city": "常州",
+        "confirmed": "51",
+        "died": "0",
+        "crued": "51",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "348"
+      },
+      {
+        "city": "苏州",
+        "confirmed": "87",
+        "died": "0",
+        "crued": "87",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "224"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "86",
+        "died": "0",
+        "crued": "77",
+        "confirmedRelative": "0",
+        "curConfirm": "9"
+      }
+    ]
+  },
+  {
+    "confirmed": "968",
+    "died": "3",
+    "crued": "948",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "21",
+    "curConfirm": "17",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "四川",
+    "subList": [
+      {
+        "city": "遂宁",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "330"
+      },
+      {
+        "city": "达州",
+        "confirmed": "42",
+        "died": "0",
+        "crued": "42",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "369"
+      },
+      {
+        "city": "内江",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "248"
+      },
+      {
+        "city": "广安",
+        "confirmed": "30",
+        "died": "0",
+        "crued": "30",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "241"
+      },
+      {
+        "city": "宜宾",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "186"
+      },
+      {
+        "city": "凉山州",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "80"
+      },
+      {
+        "city": "乐山",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "79"
+      },
+      {
+        "city": "眉山",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "77"
+      },
+      {
+        "city": "德阳",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "74"
+      },
+      {
+        "city": "巴中",
+        "confirmed": "24",
+        "died": "0",
+        "crued": "24",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "239"
+      },
+      {
+        "city": "成都",
+        "confirmed": "158",
+        "died": "3",
+        "crued": "155",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "75"
+      },
+      {
+        "city": "南充",
+        "confirmed": "39",
+        "died": "0",
+        "crued": "39",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "291"
+      },
+      {
+        "city": "泸州",
+        "confirmed": "24",
+        "died": "0",
+        "crued": "24",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "331"
+      },
+      {
+        "city": "绵阳",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "240"
+      },
+      {
+        "city": "甘孜州",
+        "confirmed": "78",
+        "died": "0",
+        "crued": "78",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "73"
+      },
+      {
+        "city": "广元",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "329"
+      },
+      {
+        "city": "资阳",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "242"
+      },
+      {
+        "city": "自贡",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "78"
+      },
+      {
+        "city": "雅安",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "76"
+      },
+      {
+        "city": "攀枝花",
+        "confirmed": "16",
+        "died": "0",
+        "crued": "16",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "81"
+      },
+      {
+        "city": "阿坝州",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "185"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "414",
+        "died": "0",
+        "crued": "397",
+        "confirmedRelative": "0",
+        "curConfirm": "17"
+      }
+    ]
+  },
+  {
+    "confirmed": "876",
+    "died": "7",
+    "crued": "862",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "11",
+    "curConfirm": "7",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "山东",
+    "subList": [
+      {
+        "city": "威海",
+        "confirmed": "38",
+        "died": "1",
+        "crued": "37",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "175"
+      },
+      {
+        "city": "泰安",
+        "confirmed": "35",
+        "died": "2",
+        "crued": "33",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "325"
+      },
+      {
+        "city": "济南",
+        "confirmed": "47",
+        "died": "0",
+        "crued": "47",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "288"
+      },
+      {
+        "city": "枣庄",
+        "confirmed": "24",
+        "died": "0",
+        "crued": "24",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "172"
+      },
+      {
+        "city": "济宁",
+        "confirmed": "260",
+        "died": "0",
+        "crued": "260",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "286"
+      },
+      {
+        "city": "临沂",
+        "confirmed": "49",
+        "died": "0",
+        "crued": "49",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "234"
+      },
+      {
+        "city": "青岛",
+        "confirmed": "80",
+        "died": "1",
+        "crued": "79",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "236"
+      },
+      {
+        "city": "日照",
+        "confirmed": "16",
+        "died": "0",
+        "crued": "16",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "173"
+      },
+      {
+        "city": "菏泽",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "353"
+      },
+      {
+        "city": "聊城",
+        "confirmed": "38",
+        "died": "0",
+        "crued": "38",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "366"
+      },
+      {
+        "city": "滨州",
+        "confirmed": "15",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "235"
+      },
+      {
+        "city": "潍坊",
+        "confirmed": "44",
+        "died": "0",
+        "crued": "44",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "287"
+      },
+      {
+        "city": "德州",
+        "confirmed": "37",
+        "died": "2",
+        "crued": "35",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "372"
+      },
+      {
+        "city": "烟台",
+        "confirmed": "47",
+        "died": "0",
+        "crued": "47",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "326"
+      },
+      {
+        "city": "淄博",
+        "confirmed": "30",
+        "died": "1",
+        "crued": "29",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "354"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "98",
+        "died": "0",
+        "crued": "91",
+        "confirmedRelative": "0",
+        "curConfirm": "7"
+      }
+    ]
+  },
+  {
+    "confirmed": "937",
+    "died": "1",
+    "crued": "936",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "1",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "江西",
+    "subList": [
+      {
+        "city": "吉安",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "318"
+      },
+      {
+        "city": "上饶",
+        "confirmed": "123",
+        "died": "0",
+        "crued": "123",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "364"
+      },
+      {
+        "city": "九江",
+        "confirmed": "116",
+        "died": "0",
+        "crued": "116",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "349"
+      },
+      {
+        "city": "新余",
+        "confirmed": "129",
+        "died": "0",
+        "crued": "129",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "164"
+      },
+      {
+        "city": "抚州",
+        "confirmed": "72",
+        "died": "0",
+        "crued": "72",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "226"
+      },
+      {
+        "city": "鹰潭",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "279"
+      },
+      {
+        "city": "宜春",
+        "confirmed": "106",
+        "died": "0",
+        "crued": "106",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "278"
+      },
+      {
+        "city": "景德镇",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "225"
+      },
+      {
+        "city": "萍乡",
+        "confirmed": "33",
+        "died": "0",
+        "crued": "33",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "350"
+      },
+      {
+        "city": "赣州",
+        "confirmed": "74",
+        "died": "1",
+        "crued": "73",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "365"
+      },
+      {
+        "city": "南昌",
+        "confirmed": "231",
+        "died": "0",
+        "crued": "231",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "163"
+      },
+      {
+        "city": "赣江新区",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "594",
+    "died": "6",
+    "crued": "585",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "1",
+    "curConfirm": "3",
+    "curConfirmRelative": "0",
+    "cityCode": "132",
+    "icuDisable": "1",
+    "area": "重庆",
+    "subList": [
+      {
+        "city": "奉节县",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "武隆区",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "永川区",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "两江新区",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "渝北区",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "开州区",
+        "confirmed": "21",
+        "died": "1",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "丰都县",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "巫山县",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "大足区",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "忠县",
+        "confirmed": "21",
+        "died": "0",
+        "crued": "21",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "云阳县",
+        "confirmed": "25",
+        "died": "0",
+        "crued": "25",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "璧山区",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "九龙坡区",
+        "confirmed": "21",
+        "died": "1",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "潼南区",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "大渡口区",
+        "confirmed": "7",
+        "died": "0",
+        "crued": "7",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "梁平区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "秀山县",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "万州区",
+        "confirmed": "118",
+        "died": "4",
+        "crued": "114",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "南岸区",
+        "confirmed": "15",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "石柱县",
+        "confirmed": "15",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "涪陵区",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "江北区",
+        "confirmed": "28",
+        "died": "0",
+        "crued": "28",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "綦江区",
+        "confirmed": "23",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "巫溪县",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "长寿区",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "城口县",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "合川区",
+        "confirmed": "23",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "垫江县",
+        "confirmed": "20",
+        "died": "0",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "江津区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "黔江区",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "渝中区",
+        "confirmed": "20",
+        "died": "0",
+        "crued": "20",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "巴南区",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "铜梁区",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "荣昌区",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "沙坪坝区",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "高新区",
+        "confirmed": "4",
+        "died": "0",
+        "crued": "4",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "彭水县",
+        "confirmed": "2",
+        "died": "0",
+        "crued": "2",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "酉阳县",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "万盛经开区",
+        "confirmed": "1",
+        "died": "0",
+        "crued": "1",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "18",
+        "died": "0",
+        "crued": "15",
+        "confirmedRelative": "0",
+        "curConfirm": "3"
+      }
+    ]
+  },
+  {
+    "confirmed": "994",
+    "died": "6",
+    "crued": "988",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "0",
+    "curConfirm": "0",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "安徽",
+    "subList": [
+      {
+        "city": "安庆",
+        "confirmed": "83",
+        "died": "0",
+        "crued": "83",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "130"
+      },
+      {
+        "city": "芜湖",
+        "confirmed": "34",
+        "died": "0",
+        "crued": "34",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "129"
+      },
+      {
+        "city": "亳州",
+        "confirmed": "108",
+        "died": "0",
+        "crued": "108",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "188"
+      },
+      {
+        "city": "黄山",
+        "confirmed": "9",
+        "died": "0",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "252"
+      },
+      {
+        "city": "淮北",
+        "confirmed": "27",
+        "died": "0",
+        "crued": "27",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "253"
+      },
+      {
+        "city": "蚌埠",
+        "confirmed": "160",
+        "died": "5",
+        "crued": "155",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "126"
+      },
+      {
+        "city": "马鞍山",
+        "confirmed": "38",
+        "died": "0",
+        "crued": "38",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "358"
+      },
+      {
+        "city": "铜陵",
+        "confirmed": "29",
+        "died": "0",
+        "crued": "29",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "337"
+      },
+      {
+        "city": "池州",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "299"
+      },
+      {
+        "city": "宿州",
+        "confirmed": "41",
+        "died": "0",
+        "crued": "41",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "370"
+      },
+      {
+        "city": "合肥",
+        "confirmed": "174",
+        "died": "1",
+        "crued": "173",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "127"
+      },
+      {
+        "city": "宣城",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "190"
+      },
+      {
+        "city": "滁州",
+        "confirmed": "13",
+        "died": "0",
+        "crued": "13",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "189"
+      },
+      {
+        "city": "阜阳",
+        "confirmed": "156",
+        "died": "0",
+        "crued": "156",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "128"
+      },
+      {
+        "city": "淮南",
+        "confirmed": "27",
+        "died": "0",
+        "crued": "27",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "250"
+      },
+      {
+        "city": "六安",
+        "confirmed": "69",
+        "died": "0",
+        "crued": "69",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "298"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "3",
+        "died": "0",
+        "crued": "3",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      }
+    ]
+  },
+  {
+    "confirmed": "1044",
+    "died": "4",
+    "crued": "1037",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "1",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "2",
+    "curConfirm": "3",
+    "curConfirmRelative": "-1",
+    "icuDisable": "1",
+    "area": "湖南",
+    "subList": [
+      {
+        "city": "衡阳",
+        "confirmed": "48",
+        "died": "0",
+        "crued": "48",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "159"
+      },
+      {
+        "city": "娄底",
+        "confirmed": "76",
+        "died": "0",
+        "crued": "76",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "221"
+      },
+      {
+        "city": "湘潭",
+        "confirmed": "36",
+        "died": "0",
+        "crued": "36",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "313"
+      },
+      {
+        "city": "永州",
+        "confirmed": "44",
+        "died": "0",
+        "crued": "44",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "314"
+      },
+      {
+        "city": "常德",
+        "confirmed": "82",
+        "died": "0",
+        "crued": "82",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "219"
+      },
+      {
+        "city": "张家界",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "312"
+      },
+      {
+        "city": "岳阳",
+        "confirmed": "156",
+        "died": "1",
+        "crued": "155",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "220"
+      },
+      {
+        "city": "株洲",
+        "confirmed": "80",
+        "died": "0",
+        "crued": "80",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "222"
+      },
+      {
+        "city": "长沙",
+        "confirmed": "242",
+        "died": "2",
+        "crued": "240",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "158"
+      },
+      {
+        "city": "邵阳",
+        "confirmed": "102",
+        "died": "1",
+        "crued": "101",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "273"
+      },
+      {
+        "city": "湘西州",
+        "confirmed": "8",
+        "died": "0",
+        "crued": "8",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "274"
+      },
+      {
+        "city": "郴州",
+        "confirmed": "39",
+        "died": "0",
+        "crued": "39",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "275"
+      },
+      {
+        "city": "怀化",
+        "confirmed": "40",
+        "died": "0",
+        "crued": "40",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "363"
+      },
+      {
+        "city": "益阳",
+        "confirmed": "60",
+        "died": "0",
+        "crued": "60",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "272"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "26",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "3"
+      }
+    ]
+  },
+  {
+    "confirmed": "1312",
+    "died": "22",
+    "crued": "1285",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "9",
+    "curConfirm": "5",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "河南",
+    "subList": [
+      {
+        "city": "安阳",
+        "confirmed": "53",
+        "died": "0",
+        "crued": "53",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "267"
+      },
+      {
+        "city": "信阳",
+        "confirmed": "274",
+        "died": "2",
+        "crued": "272",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "214"
+      },
+      {
+        "city": "周口",
+        "confirmed": "76",
+        "died": "1",
+        "crued": "75",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "308"
+      },
+      {
+        "city": "开封",
+        "confirmed": "26",
+        "died": "0",
+        "crued": "26",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "210"
+      },
+      {
+        "city": "许昌",
+        "confirmed": "39",
+        "died": "1",
+        "crued": "38",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "155"
+      },
+      {
+        "city": "濮阳",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "209"
+      },
+      {
+        "city": "漯河",
+        "confirmed": "36",
+        "died": "0",
+        "crued": "36",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "344"
+      },
+      {
+        "city": "郑州",
+        "confirmed": "157",
+        "died": "5",
+        "crued": "152",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "268"
+      },
+      {
+        "city": "三门峡",
+        "confirmed": "7",
+        "died": "1",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "212"
+      },
+      {
+        "city": "驻马店",
+        "confirmed": "139",
+        "died": "0",
+        "crued": "139",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "269"
+      },
+      {
+        "city": "南阳",
+        "confirmed": "156",
+        "died": "3",
+        "crued": "153",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "309"
+      },
+      {
+        "city": "鹤壁",
+        "confirmed": "19",
+        "died": "0",
+        "crued": "19",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "215"
+      },
+      {
+        "city": "商丘",
+        "confirmed": "91",
+        "died": "3",
+        "crued": "88",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "154"
+      },
+      {
+        "city": "洛阳",
+        "confirmed": "31",
+        "died": "1",
+        "crued": "30",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "153"
+      },
+      {
+        "city": "新乡",
+        "confirmed": "57",
+        "died": "3",
+        "crued": "54",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "152"
+      },
+      {
+        "city": "焦作",
+        "confirmed": "32",
+        "died": "1",
+        "crued": "31",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "211"
+      },
+      {
+        "city": "平顶山",
+        "confirmed": "58",
+        "died": "1",
+        "crued": "57",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "213"
+      },
+      {
+        "city": "济源",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1277"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "39",
+        "died": "0",
+        "crued": "34",
+        "confirmedRelative": "0",
+        "curConfirm": "5"
+      }
+    ]
+  },
+  {
+    "confirmed": "2328",
+    "died": "8",
+    "crued": "2280",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "5",
+    "asymptomaticRelative": "5",
+    "asymptomatic": "111",
+    "curConfirm": "40",
+    "curConfirmRelative": "-5",
+    "icuDisable": "1",
+    "area": "广东",
+    "subList": [
+      {
+        "city": "肇庆",
+        "confirmed": "19",
+        "died": "1",
+        "crued": "18",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "338"
+      },
+      {
+        "city": "珠海",
+        "confirmed": "98",
+        "died": "1",
+        "crued": "97",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "140"
+      },
+      {
+        "city": "河源",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "200"
+      },
+      {
+        "city": "佛山",
+        "confirmed": "89",
+        "died": "0",
+        "crued": "89",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "138"
+      },
+      {
+        "city": "清远",
+        "confirmed": "12",
+        "died": "0",
+        "crued": "12",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "197"
+      },
+      {
+        "city": "汕尾",
+        "confirmed": "6",
+        "died": "0",
+        "crued": "6",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "339"
+      },
+      {
+        "city": "茂名",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "139"
+      },
+      {
+        "city": "阳江",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "199"
+      },
+      {
+        "city": "湛江",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "22",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "198"
+      },
+      {
+        "city": "中山",
+        "confirmed": "67",
+        "died": "0",
+        "crued": "67",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "187"
+      },
+      {
+        "city": "惠州",
+        "confirmed": "62",
+        "died": "0",
+        "crued": "62",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "301"
+      },
+      {
+        "city": "揭阳",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "259"
+      },
+      {
+        "city": "梅州",
+        "confirmed": "16",
+        "died": "0",
+        "crued": "16",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "141"
+      },
+      {
+        "city": "深圳",
+        "confirmed": "423",
+        "died": "3",
+        "crued": "420",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "340"
+      },
+      {
+        "city": "汕头",
+        "confirmed": "25",
+        "died": "0",
+        "crued": "25",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "303"
+      },
+      {
+        "city": "江门",
+        "confirmed": "23",
+        "died": "0",
+        "crued": "23",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "302"
+      },
+      {
+        "city": "韶关",
+        "confirmed": "10",
+        "died": "1",
+        "crued": "9",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "137"
+      },
+      {
+        "city": "东莞",
+        "confirmed": "99",
+        "died": "1",
+        "crued": "98",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "119"
+      },
+      {
+        "city": "广州",
+        "confirmed": "377",
+        "died": "1",
+        "crued": "376",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "257"
+      },
+      {
+        "city": "潮州",
+        "confirmed": "5",
+        "died": "0",
+        "crued": "5",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "201"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "932",
+        "died": "0",
+        "crued": "892",
+        "confirmedRelative": "0",
+        "curConfirm": "40"
+      }
+    ]
+  },
+  {
+    "confirmed": "1331",
+    "died": "1",
+    "crued": "1320",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "48",
+    "curConfirm": "10",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "浙江",
+    "subList": [
+      {
+        "city": "台州",
+        "confirmed": "147",
+        "died": "0",
+        "crued": "147",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "244"
+      },
+      {
+        "city": "嘉兴",
+        "confirmed": "46",
+        "died": "0",
+        "crued": "46",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "334"
+      },
+      {
+        "city": "湖州",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "294"
+      },
+      {
+        "city": "舟山",
+        "confirmed": "10",
+        "died": "0",
+        "crued": "10",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "245"
+      },
+      {
+        "city": "绍兴",
+        "confirmed": "42",
+        "died": "0",
+        "crued": "42",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "293"
+      },
+      {
+        "city": "宁波",
+        "confirmed": "157",
+        "died": "0",
+        "crued": "157",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "180"
+      },
+      {
+        "city": "杭州",
+        "confirmed": "181",
+        "died": "0",
+        "crued": "181",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "179"
+      },
+      {
+        "city": "金华",
+        "confirmed": "55",
+        "died": "0",
+        "crued": "55",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "333"
+      },
+      {
+        "city": "丽水",
+        "confirmed": "17",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "292"
+      },
+      {
+        "city": "温州",
+        "confirmed": "504",
+        "died": "1",
+        "crued": "503",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "178"
+      },
+      {
+        "city": "衢州",
+        "confirmed": "14",
+        "died": "0",
+        "crued": "14",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "243"
+      },
+      {
+        "city": "省十里丰监狱",
+        "confirmed": "36",
+        "died": "0",
+        "crued": "36",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "112",
+        "died": "0",
+        "crued": "102",
+        "confirmedRelative": "0",
+        "curConfirm": "10"
+      }
+    ]
+  },
+  {
+    "confirmed": "68157",
+    "died": "4512",
+    "crued": "63640",
+    "relativeTime": "1619193600",
+    "confirmedRelative": "0",
+    "diedRelative": "0",
+    "curedRelative": "0",
+    "asymptomaticRelative": "0",
+    "asymptomatic": "1",
+    "curConfirm": "5",
+    "curConfirmRelative": "0",
+    "icuDisable": "1",
+    "area": "湖北",
+    "subList": [
+      {
+        "city": "仙桃",
+        "confirmed": "575",
+        "died": "22",
+        "crued": "553",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1713"
+      },
+      {
+        "city": "天门",
+        "confirmed": "496",
+        "died": "15",
+        "crued": "481",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2654"
+      },
+      {
+        "city": "随州",
+        "confirmed": "1307",
+        "died": "45",
+        "crued": "1262",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "371"
+      },
+      {
+        "city": "咸宁",
+        "confirmed": "836",
+        "died": "15",
+        "crued": "821",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "362"
+      },
+      {
+        "city": "十堰",
+        "confirmed": "672",
+        "died": "8",
+        "crued": "664",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "216"
+      },
+      {
+        "city": "恩施",
+        "confirmed": "252",
+        "died": "7",
+        "crued": "245",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "373"
+      },
+      {
+        "city": "襄阳",
+        "confirmed": "1175",
+        "died": "40",
+        "crued": "1135",
+        "confirmedRelative": "0",
+        "curConfirm": "0"
+      },
+      {
+        "city": "荆州",
+        "confirmed": "1580",
+        "died": "52",
+        "crued": "1528",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "157"
+      },
+      {
+        "city": "神农架林区",
+        "confirmed": "11",
+        "died": "0",
+        "crued": "11",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "2734"
+      },
+      {
+        "city": "宜昌",
+        "confirmed": "931",
+        "died": "37",
+        "crued": "894",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "270"
+      },
+      {
+        "city": "潜江",
+        "confirmed": "198",
+        "died": "9",
+        "crued": "189",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "1293"
+      },
+      {
+        "city": "武汉",
+        "confirmed": "50340",
+        "died": "3869",
+        "crued": "46471",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "218"
+      },
+      {
+        "city": "黄冈",
+        "confirmed": "2907",
+        "died": "125",
+        "crued": "2782",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "271"
+      },
+      {
+        "city": "孝感",
+        "confirmed": "3518",
+        "died": "129",
+        "crued": "3389",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "310"
+      },
+      {
+        "city": "黄石",
+        "confirmed": "1015",
+        "died": "39",
+        "crued": "976",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "311"
+      },
+      {
+        "city": "荆门",
+        "confirmed": "928",
+        "died": "41",
+        "crued": "887",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "217"
+      },
+      {
+        "city": "鄂州",
+        "confirmed": "1394",
+        "died": "59",
+        "crued": "1335",
+        "confirmedRelative": "0",
+        "curConfirm": "0",
+        "cityCode": "122"
+      },
+      {
+        "city": "境外输入",
+        "confirmed": "22",
+        "died": "0",
+        "crued": "17",
+        "confirmedRelative": "0",
+        "curConfirm": "5"
+      }
+    ]
+  }
+]
