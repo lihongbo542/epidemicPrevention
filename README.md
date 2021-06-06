@@ -1,6 +1,9 @@
 # epidemicPrevention
+
 # clone 代码至本地
+
 # 安装相关依赖 yarn /npm i
+
 # 注意：本项目前后端聚合在一起，使用者需先安装mongoDB并开启mongoDB权限管理（具体代码在service/api/model下）初始账号 lihongbo 密码 admin888
 
 # 作者是前端开发，故后端代码比较拉跨，仅供参考
